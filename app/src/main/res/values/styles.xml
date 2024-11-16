@@ -1,0 +1,9 @@
+<resources>
+    <!-- Custom text appearance for BottomNavigationView labels -->
+    <style name="BottomNavigationViewText" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">14sp</item> <!-- Adjust text size as needed -->
+        <item name="android:textStyle">normal</item> <!-- Removes bold -->
+        <item name="android:paddingTop">4dp</item> <!-- Adjust padding as needed -->
+        <item name="android:paddingBottom">4dp</item> <!-- Adjust padding as needed -->
+    </style>
+</resources>
